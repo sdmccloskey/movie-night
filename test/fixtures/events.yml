@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+january:
+  occurs_at: 2015-01-01 18:30:26
+  location: "Shane's House"
+
+february:
+  occurs_at: 2015-02-01 18:30:26
+  location: "Industry"
